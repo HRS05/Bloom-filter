@@ -22,6 +22,11 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
             <artifactId>guava</artifactId>
             <version>30.1.1-jre</version> <!-- or latest version -->
         </dependency>
+        <dependency>
+            <groupId>com.fasterxml.uuid</groupId>
+            <artifactId>java-uuid-generator</artifactId>
+            <version>5.0.0</version>
+        </dependency>
     </dependencies>>
 
 </project>
